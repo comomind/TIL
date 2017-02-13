@@ -4,6 +4,8 @@ embedded 환경에서 안전한 firmware update를 위한 firmware image 무결�
 
 
 # Things To Do 
-1. wolfssl IAR용 빌드 
-2. 
+1. crypto algorithm 선정 
+2. wolfssl IAR용 빌드 
+3. test
+
 
