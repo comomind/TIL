@@ -37,7 +37,7 @@ WShoes의 경우, 인증 관련 class(EMP, google, facebook 등)을 별도 dex�
 
     생성한 dex를 encryption 
     dexClassLoader를 이용하여 (decrypted)dex를 동적으로 loading
-
+    
     if (appIntegritiyCheck())
         decrypt(dex)
         dynamic class loading (dex)
@@ -47,6 +47,6 @@ multi dex 사용하는 방법
 http://sjava.net/2016/12/%EB%A9%80%ED%8B%B0-dex-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/
 
 dexClassLoader를 이용한 동적 로딩
-http://www.marioalmeida.eu/2015/01/27/how-to-easy-way-load-apk-classes-using-dexclassloader/#comment-1095
-http://javacan.tistory.com/entry/1
-http://jjun5050.tistory.com/27
+http://www.marioalmeida.eu/2015/01/27/how-to-easy-way-load-apk-classes-using-dexclassloader/#comment-1095  
+http://javacan.tistory.com/entry/1  
+http://jjun5050.tistory.com/27  
